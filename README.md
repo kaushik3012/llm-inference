@@ -13,5 +13,5 @@ Remember to update the secret in the inference.py file.<br>
 To run the model on the validation set and get accuracy, enter following command in terminal
 <br>
 ```bash
-modal run inference
+modal run inference.py
 ```
